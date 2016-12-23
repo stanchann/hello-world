@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+Hello,
+
+I am interested in CS and programming.
+
